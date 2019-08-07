@@ -1,0 +1,6 @@
+com\whatvoucher\backend\data\Availability.class
+com\whatvoucher\backend\mock\MockDataGenerator.class
+com\whatvoucher\backend\mock\MockDataService.class
+com\whatvoucher\backend\data\Product.class
+com\whatvoucher\backend\DataService.class
+com\whatvoucher\backend\data\Category.class
