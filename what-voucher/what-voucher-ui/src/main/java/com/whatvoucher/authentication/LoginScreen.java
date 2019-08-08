@@ -57,11 +57,11 @@ public class LoginScreen extends FlexLayout {
         VerticalLayout loginInformation = new VerticalLayout();
         loginInformation.setClassName("login-information");
 
-        H1 loginInfoHeader = new H1("Login Information");
+        H1 loginInfoHeader = new H1("What Voucher?");
         Span loginInfoText = new Span(
-                "Log in as \"admin\" to have full access. Log in with any " +
-                        "other username to have read-only access. For all " +
-                        "users, the password is same as the username.");
+                "How often do you find a voucher that you just forgot about? " +
+                        "This is over now. Manage all your voucher here and " +
+                        "get regular reminders before it is too late!");
         loginInformation.add(loginInfoHeader);
         loginInformation.add(loginInfoText);
 
